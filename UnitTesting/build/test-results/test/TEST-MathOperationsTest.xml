@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MathOperationsTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-05-02T07:20:34" hostname="AZIZ-PC" time="0.025">
+  <properties/>
+  <testcase name="testDivideByZero()" classname="MathOperationsTest" time="0.014"/>
+  <testcase name="testAdd()" classname="MathOperationsTest" time="0.001"/>
+  <testcase name="testSubtract()" classname="MathOperationsTest" time="0.001"/>
+  <testcase name="testFactorial()" classname="MathOperationsTest" time="0.001"/>
+  <testcase name="testNegativeNumber()" classname="MathOperationsTest" time="0.001"/>
+  <testcase name="testDivide()" classname="MathOperationsTest" time="0.0"/>
+  <testcase name="testMultiply()" classname="MathOperationsTest" time="0.001"/>
+  <testcase name="testIsEven()" classname="MathOperationsTest" time="0.001"/>
+  <testcase name="testIsPrime()" classname="MathOperationsTest" time="0.0"/>
+  <testcase name="testFactorialOfZero()" classname="MathOperationsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
